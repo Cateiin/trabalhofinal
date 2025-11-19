@@ -1,0 +1,46 @@
+﻿
+body{
+    background-color: black;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+    max-width: 550px;
+    margin: 5rem auto;
+    border-radius: 1rem;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    
+}
+
+.card-header {
+    background-color: #fff;
+    border-bottom: none;
+    text-align: center;
+}
+
+    .card-header h3 {
+        color: #ff416c;
+        font-weight: 700;
+    }
+
+label {
+    font-weight: 500;
+}
+
+.btn-outline-primary {
+    border-color: #ff416c;
+    color: #ff416c;
+}
+
+    .btn-outline-primary:hover {
+        background-color: #ff416c;
+        color: white;
+    }
+
+.btn-outline-danger:hover {
+    background-color: #dc3545;
+    color: white;
+}
+.card-img-top {
+    border: 10px solid red;
+}

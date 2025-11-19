@@ -1,0 +1,126 @@
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\TrabalhoCleziel.dll.config
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\TrabalhoCleziel.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\TrabalhoCleziel.pdb
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\csc.exe
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\csc.exe.config
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\csc.rsp
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\csi.exe
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\csi.exe.config
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\csi.rsp
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.AppContext.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Console.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.IO.Compression.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Net.Http.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Net.Sockets.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.ValueTuple.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\vbc.exe
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\vbc.exe.config
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\vbc.rsp
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\VBCSCompiler.exe
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\EntityFramework.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\EntityFramework.SqlServer.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\EntityFramework.xml
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\EntityFramework.SqlServer.xml
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\obj\Debug\TrabalhoCleziel.csproj.AssemblyReference.cache
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\obj\Debug\TrabalhoCleziel.csproj.CoreCompileInputs.cache
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\obj\Debug\Trabalho.7E41AFA9.Up2Date
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\obj\Debug\TrabalhoCleziel.dll
+C:\Users\20231TII019\source\repos\TrabalhoClezielSolution\TrabalhoCleziel\obj\Debug\TrabalhoCleziel.pdb
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\TrabalhoCleziel.dll.config
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\TrabalhoCleziel.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\TrabalhoCleziel.pdb
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\csc.exe
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\csc.exe.config
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\csc.rsp
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\csi.exe
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\csi.exe.config
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\csi.rsp
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.AppContext.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Collections.Immutable.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Console.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Globalization.Calendars.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.IO.Compression.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.IO.FileSystem.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Net.Http.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Net.Sockets.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Reflection.Metadata.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.ValueTuple.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Xml.XPath.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\vbc.exe
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\vbc.exe.config
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\vbc.rsp
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\VBCSCompiler.exe
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\roslyn\VBCSCompiler.exe.config
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\EntityFramework.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\EntityFramework.SqlServer.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\EntityFramework.xml
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\EntityFramework.SqlServer.xml
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\obj\Debug\TrabalhoCleziel.csproj.AssemblyReference.cache
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\obj\Debug\TrabalhoCleziel.csproj.CoreCompileInputs.cache
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\obj\Debug\Trabalho.7E41AFA9.Up2Date
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\obj\Debug\TrabalhoCleziel.dll
+E:\Outros\Progamação III\Trabalhos Cleziel\TrabalhoClezielSolution\TrabalhoCleziel\obj\Debug\TrabalhoCleziel.pdb

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBFastFoodModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="PerfilUsuario">
+    <Key>
+      <PropertyRef Name="IdPerfil" />
+    </Key>
+    <Property Name="IdPerfil" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descricao" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Status" Type="Boolean" />
+    <NavigationProperty Name="Usuarios" Relationship="Self.FK_Usuario_Perfil" FromRole="PerfilUsuario" ToRole="Usuario" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="IdUsuario" />
+    </Key>
+    <Property Name="IdUsuario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PrimeiroNome" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="UltimoNome" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DataNasc" Type="DateTime" Precision="3" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Senha" Type="String" MaxLength="260" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="UltimoAcesso" Type="DateTime" Precision="3" />
+    <Property Name="PerfilUsuarioID" Type="Int32" Nullable="false" />
+    <Property Name="Rua" Type="String" MaxLength="250" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="PerfilUsuario" Relationship="Self.FK_Usuario_Perfil" FromRole="Usuario" ToRole="PerfilUsuario" />
+  </EntityType>
+  <Association Name="FK_Usuario_Perfil">
+    <End Role="PerfilUsuario" Type="Self.PerfilUsuario" Multiplicity="1" />
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PerfilUsuario">
+        <PropertyRef Name="IdPerfil" />
+      </Principal>
+      <Dependent Role="Usuario">
+        <PropertyRef Name="PerfilUsuarioID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DBFastFoodEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PerfilUsuarios" EntityType="Self.PerfilUsuario" />
+    <EntitySet Name="Usuarios" EntityType="Self.Usuario" />
+    <AssociationSet Name="FK_Usuario_Perfil" Association="Self.FK_Usuario_Perfil">
+      <End Role="PerfilUsuario" EntitySet="PerfilUsuarios" />
+      <End Role="Usuario" EntitySet="Usuarios" />
+    </AssociationSet>
+    <EntitySet Name="Produtoes" EntityType="DBFastFoodModel.Produto" />
+    <EntitySet Name="Categorias" EntityType="DBFastFoodModel.Categoria" />
+    <AssociationSet Name="IdCategoria" Association="DBFastFoodModel.IdCategoria">
+      <End Role="Categoria" EntitySet="Categorias" />
+      <End Role="Produto" EntitySet="Produtoes" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Produto">
+    <Key>
+      <PropertyRef Name="IdProduto" />
+    </Key>
+    <Property Name="IdProduto" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NomeProduto" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Descricao" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="ImagemUrl" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="Preco" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="DataCadastro" Type="DateTime" Precision="3" />
+    <Property Name="Estoque" Type="Int32" />
+    <Property Name="idCategoria" Type="Int32" />
+    <Property Name="Disponibilidade" Type="Boolean" />
+    <NavigationProperty Name="Categoria" Relationship="DBFastFoodModel.IdCategoria" FromRole="Produto" ToRole="Categoria" />
+  </EntityType>
+  <EntityType Name="Categoria">
+    <Key>
+      <PropertyRef Name="idCategoria" />
+    </Key>
+    <Property Name="idCategoria" Type="Int32" Nullable="false" />
+    <Property Name="NomeCategoria" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Produtoes" Relationship="DBFastFoodModel.IdCategoria" FromRole="Categoria" ToRole="Produto" />
+  </EntityType>
+  <Association Name="IdCategoria">
+    <End Type="DBFastFoodModel.Categoria" Role="Categoria" Multiplicity="0..1" />
+    <End Type="DBFastFoodModel.Produto" Role="Produto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categoria">
+        <PropertyRef Name="idCategoria" />
+      </Principal>
+      <Dependent Role="Produto">
+        <PropertyRef Name="idCategoria" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
