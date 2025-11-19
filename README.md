@@ -1,0 +1,5 @@
+Olá professor, o nosso trabalho foi composto pelos alunos: Guilherme Catein, Guilherme Vieira, Rafael Pimenta, Heittor Saluci e Thales Carvalho. Conseguimos implementar funcões de cadastro, acesso, carrinho...
+A parte visual foi algo que não foi muito bem planejada, afinal, foi um tempo meio corrido devido ao ENEM e não conseguimos deixar bonitinho como queriamos, porém acredito que grande parte da demanda foi atendida.
+Nem todos conseguiram participar totalmente devido a falta de acesso a computadores e problemas de instalação de bibliotecas, porém todos ajudaram e deram opiniões para a execução do trabalho nos horários em que o LAB estava aberto.
+Muito obrigado por tudo professor, sentiremos saudades e desculpa qualquer coisa meu amigo, você é fera demais e espero (Catein falando) encontrar o senhor na minha vida de adulto pelo mercado de trabalho de TI, você me deu bastante conselhos e opiniões, pretendo me formar em SISTEMAS como o senhor, gosto muito dessa parte mais gerencial de empresa e afins.
+Tamo junto sempre!!!
